@@ -4,6 +4,3 @@
 [submodule "themes/roxo"]
 	path = themes/roxo
 	url = https://github.com/StaticMania/roxo-hugo.git
-[submodule "themes/anake"]
-	path = themes/anake
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
